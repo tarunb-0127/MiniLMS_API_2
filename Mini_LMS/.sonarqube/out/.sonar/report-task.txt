@@ -1,0 +1,6 @@
+projectKey=MiniLMS
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=MiniLMS
+ceTaskId=ae83b1b5-2191-4363-84f5-61b80dc6e70c
+ceTaskUrl=http://localhost:9000/api/ce/task?id=ae83b1b5-2191-4363-84f5-61b80dc6e70c

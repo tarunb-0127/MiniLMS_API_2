@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07FC378B-92EC-433C-8B9B-D194C3B10BAA}|..\\MiniLMS.Tests\\MiniLMS.Tests.csproj|c:\\users\\tarun.balaji\\downloads\\mini_lms\\minilms.tests\\usercontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|c:\\users\\tarun.balaji\\downloads\\mini_lms\\mini_lms\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FC378B-92EC-433C-8B9B-D194C3B10BAA}|..\\MiniLMS.Tests\\MiniLMS.Tests.csproj|c:\\users\\tarun.balaji\\downloads\\mini_lms\\minilms.tests\\modulecontrollertetsts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FC378B-92EC-433C-8B9B-D194C3B10BAA}|..\\MiniLMS.Tests\\MiniLMS.Tests.csproj|c:\\users\\tarun.balaji\\downloads\\mini_lms\\minilms.tests\\coursecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07FC378B-92EC-433C-8B9B-D194C3B10BAA}|..\\MiniLMS.Tests\\MiniLMS.Tests.csproj|c:\\users\\tarun.balaji\\downloads\\mini_lms\\minilms.tests\\enrollmentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|c:\\users\\tarun.balaji\\downloads\\mini_lms\\mini_lms\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|solutionrelative:controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|c:\\users\\tarun.balaji\\downloads\\mini_lms\\mini_lms\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|c:\\users\\tarun.balaji\\downloads\\mini_lms\\mini_lms\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|solutionrelative:models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|c:\\users\\tarun.balaji\\downloads\\mini_lms\\mini_lms\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|solutionrelative:services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|c:\\users\\tarun.balaji\\downloads\\mini_lms\\mini_lms\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|solutionrelative:controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|c:\\users\\tarun.balaji\\downloads\\mini_lms\\mini_lms\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|solutionrelative:services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|c:\\users\\tarun.balaji\\downloads\\mini_lms\\mini_lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|c:\\users\\tarun.balaji\\downloads\\mini_lms\\mini_lms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|c:\\users\\tarun.balaji\\downloads\\mini_lms\\mini_lms\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}|Mini_LMS.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 348,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAkwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:50:18.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnrollmentControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\MiniLMS.Tests\\EnrollmentControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\MiniLMS.Tests\\EnrollmentControllerTests.cs",
+              "ToolTip": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\MiniLMS.Tests\\EnrollmentControllerTests.cs",
+              "RelativeToolTip": "..\\MiniLMS.Tests\\EnrollmentControllerTests.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAgwBwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T02:59:22.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Models\\Feedback.cs",
+              "RelativeToolTip": "Models\\Feedback.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T02:58:03.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Services\\BlobService.cs",
+              "RelativeToolTip": "Services\\BlobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T02:35:37.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModuleControllerTetsts.cs",
+              "DocumentMoniker": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\MiniLMS.Tests\\ModuleControllerTetsts.cs",
+              "RelativeDocumentMoniker": "..\\MiniLMS.Tests\\ModuleControllerTetsts.cs",
+              "ToolTip": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\MiniLMS.Tests\\ModuleControllerTetsts.cs",
+              "RelativeToolTip": "..\\MiniLMS.Tests\\ModuleControllerTetsts.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwBEBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T02:34:55.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModuleController.cs",
+              "DocumentMoniker": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Controllers\\ModuleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ModuleController.cs",
+              "ToolTip": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Controllers\\ModuleController.cs",
+              "RelativeToolTip": "Controllers\\ModuleController.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAOkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T02:32:21.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Services\\EmailService.cs",
+              "RelativeToolTip": "Services\\EmailService.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAswOIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T01:56:07.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T01:46:24.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\MiniLMS.Tests\\CourseControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\MiniLMS.Tests\\CourseControllerTests.cs",
+              "ToolTip": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\MiniLMS.Tests\\CourseControllerTests.cs",
+              "RelativeToolTip": "..\\MiniLMS.Tests\\CourseControllerTests.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAcwIcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T01:43:07.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAkwAcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T01:41:45.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T01:16:58.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T01:08:51.456Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 348,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\MiniLMS.Tests\\UserControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\MiniLMS.Tests\\UserControllerTests.cs",
+              "ToolTip": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\MiniLMS.Tests\\UserControllerTests.cs",
+              "RelativeToolTip": "..\\MiniLMS.Tests\\UserControllerTests.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAvwLEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:27:30.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\tarun.balaji\\Downloads\\Mini_LMS\\Mini_LMS\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAuwIkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:24:03.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

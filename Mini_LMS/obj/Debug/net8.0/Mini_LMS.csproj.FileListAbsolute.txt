@@ -1,0 +1,1062 @@
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\appsettings.Development.json
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\appsettings.json
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.staticwebassets.endpoints.json
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.exe
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.deps.json
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.runtimeconfig.json
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.pdb
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.AssemblyReference.cache
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.AssemblyInfoInputs.cache
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.AssemblyInfo.cs
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.CoreCompileInputs.cache
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.MvcApplicationPartsAssemblyInfo.cs
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.MvcApplicationPartsAssemblyInfo.cache
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\scopedcss\bundle\Mini_LMS.styles.css
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.build.json
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.development.json
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.Up2Date
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\refint\Mini_LMS.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.pdb
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.genruntimeconfig.cache
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\ref\Mini_LMS.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Humanizer.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\MySqlConnector.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.CodeDom.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Text.Json.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.staticwebassets.runtime.json
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.sourcelink.json
+D:\RIX_2024\Micro Project\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\appsettings.json
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Mini_LMS.staticwebassets.runtime.json
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Mini_LMS.exe
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Mini_LMS.deps.json
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Mini_LMS.runtimeconfig.json
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Mini_LMS.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Mini_LMS.pdb
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Humanizer.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\MySqlConnector.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\System.Text.Json.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.AssemblyReference.cache
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\Mini_LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\Mini_LMS.AssemblyInfoInputs.cache
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\Mini_LMS.AssemblyInfo.cs
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.CoreCompileInputs.cache
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\Mini_LMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\Mini_LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\Mini_LMS.sourcelink.json
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\staticwebassets\msbuild.Mini_LMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\staticwebassets\msbuild.build.Mini_LMS.props
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mini_LMS.props
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mini_LMS.props
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\scopedcss\bundle\Mini_LMS.styles.css
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.Up2Date
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\Mini_LMS.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\refint\Mini_LMS.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\Mini_LMS.pdb
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\Mini_LMS.genruntimeconfig.cache
+C:\Coding\Mini_LMS_Backend\Mini_LMS\obj\Debug\net8.0\ref\Mini_LMS.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Azure.Core.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\System.ClientModel.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Coding\Mini_LMS_Backend\Mini_LMS\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\appsettings.json
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.staticwebassets.runtime.json
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.exe
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.deps.json
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.runtimeconfig.json
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.pdb
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Humanizer.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.AssemblyReference.cache
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.AssemblyInfoInputs.cache
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.AssemblyInfo.cs
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.CoreCompileInputs.cache
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets\msbuild.Mini_LMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets\msbuild.build.Mini_LMS.props
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Mini_LMS.props
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Mini_LMS.props
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\scopedcss\bundle\Mini_LMS.styles.css
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.Up2Date
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\refint\Mini_LMS.dll
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.pdb
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.genruntimeconfig.cache
+C:\Users\mypc\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\ref\Mini_LMS.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\appsettings.Development.json
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\appsettings.json
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.staticwebassets.runtime.json
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.staticwebassets.endpoints.json
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.exe
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.deps.json
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.runtimeconfig.json
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.pdb
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Azure.Core.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Azure.Storage.Common.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Humanizer.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\MySqlConnector.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.ClientModel.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.CodeDom.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.IO.Hashing.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Memory.Data.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Text.Json.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.AssemblyReference.cache
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.AssemblyInfoInputs.cache
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.AssemblyInfo.cs
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.CoreCompileInputs.cache
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.MvcApplicationPartsAssemblyInfo.cs
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.MvcApplicationPartsAssemblyInfo.cache
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\scopedcss\bundle\Mini_LMS.styles.css
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.build.json
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.development.json
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.Up2Date
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\refint\Mini_LMS.dll
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.pdb
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.genruntimeconfig.cache
+D:\RIX_2024\Mini_LMS\Mini_LMS\obj\Debug\net8.0\ref\Mini_LMS.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\appsettings.Development.json
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\appsettings.json
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.staticwebassets.endpoints.json
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.staticwebassets.runtime.json
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.exe
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.deps.json
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.runtimeconfig.json
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.pdb
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Azure.Core.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Azure.Storage.Common.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Humanizer.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\MySqlConnector.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.ClientModel.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.CodeDom.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.IO.Hashing.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Memory.Data.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Text.Json.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.AssemblyReference.cache
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.AssemblyInfoInputs.cache
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.AssemblyInfo.cs
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.CoreCompileInputs.cache
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.MvcApplicationPartsAssemblyInfo.cs
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.MvcApplicationPartsAssemblyInfo.cache
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\scopedcss\bundle\Mini_LMS.styles.css
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.build.json
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.development.json
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.Up2Date
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\refint\Mini_LMS.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.pdb
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.genruntimeconfig.cache
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\ref\Mini_LMS.dll
+D:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.sourcelink.json
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\appsettings.json
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.exe
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.deps.json
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.runtimeconfig.json
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mini_LMS.pdb
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Humanizer.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Moq.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.AssemblyReference.cache
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.AssemblyInfoInputs.cache
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.AssemblyInfo.cs
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.CoreCompileInputs.cache
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.RazorAssemblyInfo.cache
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.RazorAssemblyInfo.cs
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.sourcelink.json
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.Up2Date
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\refint\Mini_LMS.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.pdb
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\Mini_LMS.genruntimeconfig.cache
+C:\Users\tarun.balaji\Downloads\Mini_LMS\Mini_LMS\obj\Debug\net8.0\ref\Mini_LMS.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\appsettings.json
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Mini_LMS.exe
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Mini_LMS.deps.json
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Mini_LMS.runtimeconfig.json
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Mini_LMS.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Mini_LMS.pdb
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Azure.Storage.Blobs.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Azure.Storage.Common.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Humanizer.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Moq.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.AssemblyReference.cache
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\Mini_LMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\Mini_LMS.AssemblyInfoInputs.cache
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\Mini_LMS.AssemblyInfo.cs
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.CoreCompileInputs.cache
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\Mini_LMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\Mini_LMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\Mini_LMS.RazorAssemblyInfo.cache
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\Mini_LMS.RazorAssemblyInfo.cs
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\Mini_LMS.sourcelink.json
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\Mini_LMS.csproj.Up2Date
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\Mini_LMS.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\refint\Mini_LMS.dll
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\Mini_LMS.pdb
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\Mini_LMS.genruntimeconfig.cache
+C:\Users\tarun.balaji\Downloads\Mini_LMS - Copy\Mini_LMS\obj\Debug\net8.0\ref\Mini_LMS.dll

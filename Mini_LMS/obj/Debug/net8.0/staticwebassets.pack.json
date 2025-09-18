@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mypc\\Downloads\\Mini_LMS\\Mini_LMS\\wwwroot\\uploads\\19c9026d-c65c-443b-b334-ff5ab35de43d_Full React Tutorial #1 - Introduction.mp4",
+      "PackagePath": "staticwebassets\\uploads\\19c9026d-c65c-443b-b334-ff5ab35de43d_Full React Tutorial #1 - Introduction.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Downloads\\Mini_LMS\\Mini_LMS\\wwwroot\\uploads\\2cd6caa0-ad60-407d-b63a-37537e93f028_1st page_doc.pdf",
+      "PackagePath": "staticwebassets\\uploads\\2cd6caa0-ad60-407d-b63a-37537e93f028_1st page_doc.pdf"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Downloads\\Mini_LMS\\Mini_LMS\\wwwroot\\uploads\\c959627a-f459-43a3-b809-62a70a089a7d_e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4",
+      "PackagePath": "staticwebassets\\uploads\\c959627a-f459-43a3-b809-62a70a089a7d_e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Downloads\\Mini_LMS\\Mini_LMS\\wwwroot\\uploads\\e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4",
+      "PackagePath": "staticwebassets\\uploads\\e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mypc\\Downloads\\Mini_LMS\\Mini_LMS\\wwwroot\\uploads\\ef8b49a0-1b41-4c57-976e-9625119715d4_e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4",
+      "PackagePath": "staticwebassets\\uploads\\ef8b49a0-1b41-4c57-976e-9625119715d4_e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Mini_LMS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Mini_LMS.props",
+      "PackagePath": "build\\Mini_LMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Mini_LMS.props",
+      "PackagePath": "buildMultiTargeting\\Mini_LMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Mini_LMS.props",
+      "PackagePath": "buildTransitive\\Mini_LMS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

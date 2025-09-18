@@ -1,0 +1,84 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\19c9026d-c65c-443b-b334-ff5ab35de43d_Full React Tutorial #1 - Introduction.mp4))">
+      <SourceType>Package</SourceType>
+      <SourceId>Mini_LMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Mini_LMS</BasePath>
+      <RelativePath>uploads/19c9026d-c65c-443b-b334-ff5ab35de43d_Full React Tutorial #1 - Introduction.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\19c9026d-c65c-443b-b334-ff5ab35de43d_Full React Tutorial #1 - Introduction.mp4))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\2cd6caa0-ad60-407d-b63a-37537e93f028_1st page_doc.pdf))">
+      <SourceType>Package</SourceType>
+      <SourceId>Mini_LMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Mini_LMS</BasePath>
+      <RelativePath>uploads/2cd6caa0-ad60-407d-b63a-37537e93f028_1st page_doc.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\2cd6caa0-ad60-407d-b63a-37537e93f028_1st page_doc.pdf))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\c959627a-f459-43a3-b809-62a70a089a7d_e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4))">
+      <SourceType>Package</SourceType>
+      <SourceId>Mini_LMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Mini_LMS</BasePath>
+      <RelativePath>uploads/c959627a-f459-43a3-b809-62a70a089a7d_e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\c959627a-f459-43a3-b809-62a70a089a7d_e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4))">
+      <SourceType>Package</SourceType>
+      <SourceId>Mini_LMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Mini_LMS</BasePath>
+      <RelativePath>uploads/e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ef8b49a0-1b41-4c57-976e-9625119715d4_e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4))">
+      <SourceType>Package</SourceType>
+      <SourceId>Mini_LMS</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Mini_LMS</BasePath>
+      <RelativePath>uploads/ef8b49a0-1b41-4c57-976e-9625119715d4_e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\ef8b49a0-1b41-4c57-976e-9625119715d4_e69db40d-4d5d-4da7-b2e4-0cd9566b1e04_Full React Tutorial #1 - Introduction.mp4))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

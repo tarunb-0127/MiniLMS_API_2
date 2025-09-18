@@ -1,0 +1,3380 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.14.0.0",
+        "fileVersion": "4.14.0-3.25262.10 (8edf7bcd)",
+        "semanticVersion": "4.14.0",
+        "language": "en-GB"
+      },
+      "results": [
+        {
+          "ruleId": "CS1030",
+          "level": "warning",
+          "message": "#warning: 'To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.'",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 49,
+                  "startColumn": 10,
+                  "endLine": 49,
+                  "endColumn": 380
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 23,
+                  "endLine": 39,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 23,
+                  "endLine": 39,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Email' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 23,
+                  "endLine": 30,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 30,
+                  "startColumn": 23,
+                  "endLine": 30,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Token' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 23,
+                  "endLine": 31,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 23,
+                  "endLine": 31,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'NewPassword' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 23,
+                  "endLine": 32,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 23,
+                  "endLine": 32,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'ConfirmPassword' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 23,
+                  "endLine": 33,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 23,
+                  "endLine": 33,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Email' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 23,
+                  "endLine": 18,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 23,
+                  "endLine": 18,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Password' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 23,
+                  "endLine": 19,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 23,
+                  "endLine": 19,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Role' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 23,
+                  "endLine": 20,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 23,
+                  "endLine": 20,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Email' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Password' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Role' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Email' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 23,
+                  "endLine": 5,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 23,
+                  "endLine": 5,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Password' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 23,
+                  "endLine": 6,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 23,
+                  "endLine": 6,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Services/BlobService.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 32,
+                  "endLine": 16,
+                  "endColumn": 56
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 's' in 'byte[] Encoding.GetBytes(string s)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/LoginController.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 47,
+                  "endLine": 41,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'value' in 'Claim.Claim(string type, string value)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/LoginController.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 40,
+                  "endLine": 55,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'address' in 'MailAddress.MailAddress(string address, string? displayName)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Services/EmailService.cs",
+                "region": {
+                  "startLine": 52,
+                  "startColumn": 40,
+                  "endLine": 52,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 's' in 'byte[] Encoding.GetBytes(string s)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Helpers/JwtHelper.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 40,
+                  "endLine": 50,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 's' in 'byte[] Encoding.GetBytes(string s)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Helpers/JwtHelper.cs",
+                "region": {
+                  "startLine": 87,
+                  "startColumn": 40,
+                  "endLine": 87,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 's' in 'byte[] Encoding.GetBytes(string s)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Program.cs",
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 42,
+                  "endLine": 74,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Courses' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 12,
+                  "endLine": 10,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 34,
+                  "endLine": 19,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'CourseApprovals' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 12,
+                  "endLine": 10,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 42,
+                  "endLine": 21,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'CourseTakedownRequests' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 12,
+                  "endLine": 10,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 49,
+                  "endLine": 23,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Emailotps' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 12,
+                  "endLine": 10,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 36,
+                  "endLine": 27,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Enrollments' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 12,
+                  "endLine": 10,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 38,
+                  "endLine": 29,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Feedbacks' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 12,
+                  "endLine": 10,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 36,
+                  "endLine": 31,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Modules' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 12,
+                  "endLine": 10,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 34,
+                  "endLine": 33,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'CourseProgresses' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 12,
+                  "endLine": 10,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 42,
+                  "endLine": 35,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Moduleprogresses' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 12,
+                  "endLine": 10,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 42,
+                  "endLine": 38,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Notifications' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 12,
+                  "endLine": 10,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 40,
+                  "endLine": 40,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Passwordresets' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 12,
+                  "endLine": 10,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 41,
+                  "endLine": 42,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Passwordtokens' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 12,
+                  "endLine": 10,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 41,
+                  "endLine": 44,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Users' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 12,
+                  "endLine": 10,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 32,
+                  "endLine": 46,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Courses' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12,
+                  "endLine": 14,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 34,
+                  "endLine": 19,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'CourseApprovals' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12,
+                  "endLine": 14,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 42,
+                  "endLine": 21,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'CourseTakedownRequests' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12,
+                  "endLine": 14,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 49,
+                  "endLine": 23,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Emailotps' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12,
+                  "endLine": 14,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 36,
+                  "endLine": 27,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Enrollments' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12,
+                  "endLine": 14,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 38,
+                  "endLine": 29,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Feedbacks' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12,
+                  "endLine": 14,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 36,
+                  "endLine": 31,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Modules' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12,
+                  "endLine": 14,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 34,
+                  "endLine": 33,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'CourseProgresses' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12,
+                  "endLine": 14,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 42,
+                  "endLine": 35,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Moduleprogresses' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12,
+                  "endLine": 14,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 42,
+                  "endLine": 38,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Notifications' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12,
+                  "endLine": 14,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 40,
+                  "endLine": 40,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Passwordresets' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12,
+                  "endLine": 14,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 41,
+                  "endLine": 42,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Passwordtokens' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12,
+                  "endLine": 14,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 41,
+                  "endLine": 44,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Users' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 12,
+                  "endLine": 14,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 46,
+                  "startColumn": 32,
+                  "endLine": 46,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8629",
+          "level": "warning",
+          "message": "Nullable value type may be null.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/UserController.cs",
+                "region": {
+                  "startLine": 132,
+                  "startColumn": 54,
+                  "endLine": 132,
+                  "endColumn": 73
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/appsettings.json",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 21,
+                  "endLine": 9,
+                  "endColumn": 102
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4663",
+          "level": "warning",
+          "message": "Remove this empty comment",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/LoginController.cs",
+                "region": {
+                  "startLine": 58,
+                  "startColumn": 47,
+                  "endLine": 58,
+                  "endColumn": 49
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4663",
+          "level": "warning",
+          "message": "Remove this empty comment",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/LoginController.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 49,
+                  "endLine": 59,
+                  "endColumn": 52
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 5,
+                  "endLine": 25,
+                  "endColumn": 85
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 137,
+                  "startColumn": 9,
+                  "endLine": 137,
+                  "endColumn": 13
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declare types in namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/LoginController.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 14,
+                  "endLine": 10,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CourseCreateDTO' to match pascal case naming rules, consider using 'CourseCreateDto'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/DTOs/DTOs.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 18,
+                  "endLine": 36,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'AuthController' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/LoginController.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 14,
+                  "endLine": 10,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/AuthController.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 30,
+                  "endLine": 20,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declare types in namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Services/BlobService.cs",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 14,
+                  "endLine": 4,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'BlobService' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Services/BlobService.cs",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 14,
+                  "endLine": 4,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'User not found' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/UserController.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 49,
+                  "endLine": 57,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/UserController.cs",
+                "region": {
+                  "startLine": 73,
+                  "startColumn": 49,
+                  "endLine": 73,
+                  "endColumn": 65
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/UserController.cs",
+                "region": {
+                  "startLine": 106,
+                  "startColumn": 41,
+                  "endLine": 106,
+                  "endColumn": 57
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/UserController.cs",
+                "region": {
+                  "startLine": 125,
+                  "startColumn": 49,
+                  "endLine": 125,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'CourseCreateDTO' to match pascal case naming rules, consider using 'CourseCreateDto'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/CourseController.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 22,
+                  "endLine": 35,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'TakedownRequestDTO' to match pascal case naming rules, consider using 'TakedownRequestDto'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/CourseController.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 22,
+                  "endLine": 43,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S101",
+          "level": "warning",
+          "message": "Rename class 'MiniLMSContext' to match pascal case naming rules, consider using 'MiniLmsContext'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 22,
+                  "endLine": 8,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'PRIMARY' 12 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 46,
+                  "endLine": 60,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 46,
+                  "endLine": 83,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 110,
+                  "startColumn": 46,
+                  "endLine": 110,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 148,
+                  "startColumn": 46,
+                  "endLine": 148,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 161,
+                  "startColumn": 46,
+                  "endLine": 161,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 187,
+                  "startColumn": 46,
+                  "endLine": 187,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 217,
+                  "startColumn": 46,
+                  "endLine": 217,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 238,
+                  "startColumn": 46,
+                  "endLine": 238,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 266,
+                  "startColumn": 46,
+                  "endLine": 266,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 285,
+                  "startColumn": 46,
+                  "endLine": 285,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 304,
+                  "startColumn": 46,
+                  "endLine": 304,
+                  "endColumn": 55
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 323,
+                  "startColumn": 46,
+                  "endLine": 323,
+                  "endColumn": 55
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "10": null,
+              "2": null,
+              "3": null,
+              "4": null,
+              "5": null,
+              "6": null,
+              "7": null,
+              "8": null,
+              "9": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'datetime' 20 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 66,
+                  "startColumn": 61,
+                  "endLine": 66,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 61,
+                  "endLine": 70,
+                  "endColumn": 71
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 63,
+                  "endLine": 91,
+                  "endColumn": 73
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 92,
+                  "startColumn": 63,
+                  "endLine": 92,
+                  "endColumn": 73
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 119,
+                  "startColumn": 63,
+                  "endLine": 119,
+                  "endColumn": 73
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 120,
+                  "startColumn": 63,
+                  "endLine": 120,
+                  "endColumn": 73
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 154,
+                  "startColumn": 62,
+                  "endLine": 154,
+                  "endColumn": 72
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 156,
+                  "startColumn": 58,
+                  "endLine": 156,
+                  "endColumn": 68
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 171,
+                  "startColumn": 32,
+                  "endLine": 171,
+                  "endColumn": 42
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 198,
+                  "startColumn": 63,
+                  "endLine": 198,
+                  "endColumn": 73
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 223,
+                  "startColumn": 61,
+                  "endLine": 223,
+                  "endColumn": 71
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 228,
+                  "startColumn": 61,
+                  "endLine": 228,
+                  "endColumn": 71
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 253,
+                  "startColumn": 32,
+                  "endLine": 253,
+                  "endColumn": 42
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 272,
+                  "startColumn": 61,
+                  "endLine": 272,
+                  "endColumn": 71
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 292,
+                  "startColumn": 62,
+                  "endLine": 292,
+                  "endColumn": 72
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 293,
+                  "startColumn": 58,
+                  "endLine": 293,
+                  "endColumn": 68
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 311,
+                  "startColumn": 62,
+                  "endLine": 311,
+                  "endColumn": 72
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 312,
+                  "startColumn": 58,
+                  "endLine": 312,
+                  "endColumn": 68
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 331,
+                  "startColumn": 32,
+                  "endLine": 331,
+                  "endColumn": 42
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 342,
+                  "startColumn": 32,
+                  "endLine": 342,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "10": null,
+              "11": null,
+              "12": null,
+              "13": null,
+              "14": null,
+              "15": null,
+              "16": null,
+              "17": null,
+              "18": null,
+              "2": null,
+              "3": null,
+              "4": null,
+              "5": null,
+              "6": null,
+              "7": null,
+              "8": null,
+              "9": null
+            }
+          }
+        },
+        {
+          "ruleId": "S3251",
+          "level": "warning",
+          "message": "Supply an implementation for this partial method.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 352,
+                  "startColumn": 5,
+                  "endLine": 352,
+                  "endColumn": 12
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6968",
+          "level": "warning",
+          "message": "Annotate this method with ProducesResponseType containing the return type for successful responses.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/HomeController.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 30,
+                  "endLine": 11,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/HomeController.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 20,
+                  "endLine": 17,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null
+            }
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/AuthController.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 23,
+                  "endLine": 43,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1905",
+          "level": "warning",
+          "message": "Remove this unnecessary cast to 'int'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/FeedbackController.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 30,
+                  "endLine": 37,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6968",
+          "level": "warning",
+          "message": "Annotate this method with ProducesResponseType containing the return type for successful responses.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/AuthController.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 30,
+                  "endLine": 53,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/AuthController.cs",
+                "region": {
+                  "startLine": 60,
+                  "startColumn": 20,
+                  "endLine": 60,
+                  "endColumn": 88
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null
+            }
+          }
+        },
+        {
+          "ruleId": "S6968",
+          "level": "warning",
+          "message": "Annotate this method with ProducesResponseType containing the return type for successful responses.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/LoginController.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 26,
+                  "endLine": 22,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/LoginController.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 16,
+                  "endLine": 67,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null
+            }
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/FeedbackController.cs",
+                "region": {
+                  "startLine": 127,
+                  "startColumn": 20,
+                  "endLine": 127,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/FeedbackController.cs",
+                "region": {
+                  "startLine": 128,
+                  "startColumn": 20,
+                  "endLine": 128,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1854",
+          "level": "note",
+          "message": "Prefer a 'TryGetValue' call over a Dictionary indexer access guarded by a 'ContainsKey' check to avoid double lookup",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/AuthController.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 18,
+                  "endLine": 55,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/AuthController.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 50,
+                  "endLine": 55,
+                  "endColumn": 66
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Services/EmailService.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 21,
+                  "endLine": 93,
+                  "endColumn": 131
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1905",
+          "level": "warning",
+          "message": "Remove this unnecessary cast to 'int'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/AuthController.cs",
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 74,
+                  "endLine": 74,
+                  "endColumn": 77
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/ModuleController.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 24,
+                  "endLine": 28,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1860",
+          "level": "note",
+          "message": "Prefer comparing 'Count' to 0 rather than using 'Any()', both for clarity and for performance",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/UserController.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 9,
+                  "endLine": 109,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "DiagnosticPropertyKey": "Count"
+            }
+          }
+        },
+        {
+          "ruleId": "S2068",
+          "level": "warning",
+          "message": "\"password\" detected here, make sure this is not a hard-coded credential.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 50,
+                  "startColumn": 36,
+                  "endLine": 50,
+                  "endColumn": 118
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "ASP0025",
+          "level": "note",
+          "message": "Use AddAuthorizationBuilder to register authorization services and construct policies",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Program.cs",
+                "region": {
+                  "startLine": 101,
+                  "startColumn": 1,
+                  "endLine": 104,
+                  "endColumn": 3
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/CourseController.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 24,
+                  "endLine": 45,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6966",
+          "level": "warning",
+          "message": "Await RunAsync instead.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Program.cs",
+                "region": {
+                  "startLine": 154,
+                  "startColumn": 1,
+                  "endLine": 154,
+                  "endColumn": 10
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6968",
+          "level": "warning",
+          "message": "Annotate this method with ProducesResponseType containing the return type for successful responses.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/AuthController.cs",
+                "region": {
+                  "startLine": 204,
+                  "startColumn": 30,
+                  "endLine": 204,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/AuthController.cs",
+                "region": {
+                  "startLine": 206,
+                  "startColumn": 20,
+                  "endLine": 210,
+                  "endColumn": 15
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null
+            }
+          }
+        },
+        {
+          "ruleId": "CA1860",
+          "level": "note",
+          "message": "Prefer comparing 'Count' to 0 rather than using 'Any()', both for clarity and for performance",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/ProgressController.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 22,
+                  "endLine": 32,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "DiagnosticPropertyKey": "Count"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1860",
+          "level": "note",
+          "message": "Prefer comparing 'Count' to 0 rather than using 'Any()', both for clarity and for performance",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/CourseController.cs",
+                "region": {
+                  "startLine": 206,
+                  "startColumn": 9,
+                  "endLine": 206,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "DiagnosticPropertyKey": "Count"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1860",
+          "level": "note",
+          "message": "Prefer comparing 'Count' to 0 rather than using 'Any()', both for clarity and for performance",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/CourseController.cs",
+                "region": {
+                  "startLine": 213,
+                  "startColumn": 9,
+                  "endLine": 213,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "DiagnosticPropertyKey": "Count"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1860",
+          "level": "note",
+          "message": "Prefer comparing 'Count' to 0 rather than using 'Any()', both for clarity and for performance",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/CourseController.cs",
+                "region": {
+                  "startLine": 220,
+                  "startColumn": 9,
+                  "endLine": 220,
+                  "endColumn": 20
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "DiagnosticPropertyKey": "Count"
+            }
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/ProgressController.cs",
+                "region": {
+                  "startLine": 180,
+                  "startColumn": 20,
+                  "endLine": 180,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/ProgressController.cs",
+                "region": {
+                  "startLine": 181,
+                  "startColumn": 20,
+                  "endLine": 181,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/ProgressController.cs",
+                "region": {
+                  "startLine": 183,
+                  "startColumn": 22,
+                  "endLine": 183,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/ProgressController.cs",
+                "region": {
+                  "startLine": 184,
+                  "startColumn": 20,
+                  "endLine": 184,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S6964",
+          "level": "warning",
+          "message": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Controllers/ProgressController.cs",
+                "region": {
+                  "startLine": 185,
+                  "startColumn": 21,
+                  "endLine": 185,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3251",
+          "level": "warning",
+          "message": "Supply an implementation for the partial method, otherwise this call will be ignored.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/RIX_2024/Micro%20Project/MP_Copy_1/Mini_LMS/Mini_LMS/Models/MiniLMSContext.cs",
+                "region": {
+                  "startLine": 349,
+                  "startColumn": 9,
+                  "endLine": 349,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "ASP0025": {
+          "id": "ASP0025",
+          "shortDescription": "Use AddAuthorizationBuilder",
+          "defaultLevel": "note",
+          "helpUri": "https://aka.ms/aspnet/analyzers",
+          "properties": {
+            "category": "Usage",
+            "isEnabledByDefault": true
+          }
+        },
+        "CA1050": {
+          "id": "CA1050",
+          "shortDescription": "Declare types in namespaces",
+          "fullDescription": "Types are declared in namespaces to prevent name collisions and as a way to organize related types in an object hierarchy.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1050",
+          "properties": {
+            "category": "Design",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1854": {
+          "id": "CA1854",
+          "shortDescription": "Prefer the 'IDictionary.TryGetValue(TKey, out TValue)' method",
+          "fullDescription": "Prefer a 'TryGetValue' call over a Dictionary indexer access guarded by a 'ContainsKey' check. 'ContainsKey' and the indexer both would lookup the key under the hood, so using 'TryGetValue' removes the extra lookup.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1854",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1860": {
+          "id": "CA1860",
+          "shortDescription": "Avoid using 'Enumerable.Any()' extension method",
+          "fullDescription": "Prefer using 'IsEmpty', 'Count' or 'Length' properties whichever available, rather than calling 'Enumerable.Any()'. The intent is clearer and it is more performant than using 'Enumerable.Any()' extension method.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1860",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS1030": {
+          "id": "CS1030",
+          "shortDescription": "#warning directive",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS1030)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8602": {
+          "id": "CS8602",
+          "shortDescription": "Dereference of a possibly null reference.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8602)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8604": {
+          "id": "CS8604",
+          "shortDescription": "Possible null reference argument.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8604)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Non-nullable field must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring as nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8629": {
+          "id": "CS8629",
+          "shortDescription": "Nullable value type may be null.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8629)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S101": {
+          "id": "S101",
+          "shortDescription": "Types should be named in PascalCase",
+          "fullDescription": "Shared naming conventions allow teams to collaborate efficiently.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-101",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1192": {
+          "id": "S1192",
+          "shortDescription": "String literals should not be duplicated",
+          "fullDescription": "Duplicated string literals make the process of refactoring complex and error-prone, as any change would need to be propagated on all occurrences.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1192",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S125": {
+          "id": "S125",
+          "shortDescription": "Sections of code should not be commented out",
+          "fullDescription": "Commented-out code distracts the focus from the actual executed code. It creates a noise that increases maintenance code. And because it is never executed, it quickly becomes out of date and invalid.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-125",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S1905": {
+          "id": "S1905",
+          "shortDescription": "Redundant casts should not be used",
+          "fullDescription": "Casting expressions are utilized to convert one data type to another, such as transforming an integer into a string. This is especially crucial in strongly typed languages like C, C++, C#, Java, Python, and others.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1905",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2068": {
+          "id": "S2068",
+          "shortDescription": "Hard-coded credentials are security-sensitive",
+          "fullDescription": "Because it is easy to extract strings from an application source code or binary, credentials should not be hard-coded. This is particularly true for applications that are distributed or that are open-source.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2068",
+          "properties": {
+            "category": "Blocker Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2245": {
+          "id": "S2245",
+          "shortDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive",
+          "fullDescription": "PRNGs are algorithms that produce sequences of numbers that only approximate true randomness. While they are suitable for applications like simulations or modeling, they are not appropriate for security-sensitive contexts because their outputs can be predictable if the internal state is known.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2245",
+          "properties": {
+            "category": "Critical Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3251": {
+          "id": "S3251",
+          "shortDescription": "Implementations should be provided for \"partial\" methods",
+          "fullDescription": "partial methods allow an increased degree of flexibility in programming a system. Hooks can be added to generated code by invoking methods that define their signature, but might not have an implementation yet. But if the implementation is still missing when the code makes it to production, the compiler silently removes the call. In the best case scenario, such calls simply represent cruft, but in they worst case they are critical, missing functionality, the loss of which will lead to unexpected results at runtime.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3251",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S3903": {
+          "id": "S3903",
+          "shortDescription": "Types should be defined in named namespaces",
+          "fullDescription": "Types are declared in namespaces in order to prevent name collisions and as a way to organize them into the object hierarchy. Types that are defined outside any named namespace are in a global namespace that cannot be referenced in code.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3903",
+          "properties": {
+            "category": "Major Bug",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S4663": {
+          "id": "S4663",
+          "shortDescription": "Comments should not be empty",
+          "fullDescription": "Empty comments, as shown in the example, hurt readability and might indicate an oversight.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4663",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S6964": {
+          "id": "S6964",
+          "shortDescription": "Value type property used as input in a controller action should be nullable, required or annotated with the JsonRequiredAttribute to avoid under-posting.",
+          "fullDescription": "\"Under-posting\" refers to a situation where a client sends less data than expected to the server during an HTTP request, for example when the client omits some properties from the request body that the server expects to receive.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-6964",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S6966": {
+          "id": "S6966",
+          "shortDescription": "Awaitable method should be used",
+          "fullDescription": "In an async method, any blocking operations should be avoided.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-6966",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S6968": {
+          "id": "S6968",
+          "shortDescription": "Actions that return a value should be annotated with ProducesResponseTypeAttribute containing the return type",
+          "fullDescription": "In an ASP.NET Core Web API, controller actions can optionally return a result value. If a controller action returns a value in the happy path, for example ControllerBase.Ok(Object), annotating the action with one of the [ProducesResponseType] overloads that describe the type is recommended.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-6968",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

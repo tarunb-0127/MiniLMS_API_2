@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini_LMS", "Mini_LMS.csproj", "{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniLMS.Tests", "..\MiniLMS.Tests\MiniLMS.Tests.csproj", "{07FC378B-92EC-433C-8B9B-D194C3B10BAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5D5CBD-CD70-56B3-A9C3-3685A756F078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07FC378B-92EC-433C-8B9B-D194C3B10BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FC378B-92EC-433C-8B9B-D194C3B10BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FC378B-92EC-433C-8B9B-D194C3B10BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FC378B-92EC-433C-8B9B-D194C3B10BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56AFA193-115E-4F70-B77A-879DF7CCB9BD}
+	EndGlobalSection
+EndGlobal

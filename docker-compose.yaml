@@ -1,0 +1,40 @@
+services:
+  db:
+    image: mysql:8.0
+    container_name: mini_lms_mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_DATABASE: MiniLMSDB
+      MYSQL_USER: miniuser
+      MYSQL_PASSWORD: minipassword
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql-data:/var/lib/mysql
+
+  webapi:
+    build:
+      context: "C:/Users/tarun.balaji/Downloads/Mini_LMS - Copy/Mini_LMS"
+      dockerfile: Dockerfile
+    container_name: mini_lms_webapi
+    depends_on:
+      - db
+    environment:
+      - ConnectionStrings__DefaultConnection=server=db;port=3306;database=MiniLMSDB;user=miniuser;password=minipassword
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5001:8080"
+
+  frontend:
+    build:
+      context: "C:/Users/tarun.balaji/Downloads/mini-lms-app"
+      dockerfile: Dockerfile
+    container_name: mini_lms_frontend
+    depends_on:
+      - webapi
+    ports:
+      - "3000:80"
+
+volumes:
+  mysql-data:

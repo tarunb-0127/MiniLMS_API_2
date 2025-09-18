@@ -1,0 +1,1 @@
+[RED:\RIX_2024\Micro Project\MP_Copy_1\Mini_LMS\Mini_LMS\Mini_LMS.csproj¢net8.0òCSharp12
